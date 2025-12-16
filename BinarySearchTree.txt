@@ -1,0 +1,10 @@
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
+
+* Root = 6
+* y = 8 -> y = 9 , z = 7
+
+* Root = 6
+* z = 4 -> y = 5 , z = 3
+
+* 3 -> z = 1
+* 1 -> y = 2 , z = 0
